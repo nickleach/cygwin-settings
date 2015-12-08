@@ -1,0 +1,10 @@
+[user]
+	name = Nick Leach
+	email = nickleach22@gmail.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
